@@ -21,8 +21,8 @@ subtitle = ""
   
 
 [[feature]]
-name = "Fortran"
+name = "Programing"
 icon_pack="fas"
 icon = "fa-laptop"
-
+description = "Fortran, Matlab, Shell"
 +++
