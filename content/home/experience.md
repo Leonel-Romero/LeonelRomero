@@ -41,7 +41,6 @@ date_format = "Jan 2006"
   date_start = "2011-06-01"
   date_end = "2015-11-31"
   description = """"""
-  """
   
 [[experience]]
   title = "Postdoctoral Scholar"
