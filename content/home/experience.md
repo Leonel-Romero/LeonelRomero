@@ -32,14 +32,5 @@ date_format = "Jan 2006"
   * Model Development
   * Data Analysis
   """
-
-[[experience]]
-  title = "Project Scientist"
-  company = "Earth Research Institute, UCSB"
-  company_url = "eri.ucsb.edu"
-  location = "California"
-  date_start = "2011-06-01"
-  date_end = "2015-11-31"
-  description = """"""
   
 +++
