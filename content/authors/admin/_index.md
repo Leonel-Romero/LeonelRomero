@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-I completed a B.S. in Physics from the University of California, San Diego, in 2002 and a Ph.D. from Scripps Institution of Oceanography in 2008, where I continued as a postdoc for three years. In 2011, hI joined the University of California, Santa Barbara, as Project Scientist. In 2015 he became Assistant Researcher.
+I completed a B.S. in Physics from the University of California, San Diego, in 2002 and a Ph.D. from Scripps Institution of Oceanography in 2008, where I continued as a postdoc for three years. In 2011, I joined the University of California, Santa Barbara, as Project Scientist. In 2015 he became Assistant Researcher.
 
 My research combines field observations and numerical modeling to study upper ocean processes, surface waves, coastal circulation, and air-sea interaction. Some of the objectives of my current and future work are to improve understanding of wave-current interactions and their impacts on wave breaking, air-sea fluxes, and remote sensing. I am also interested in the transport and dispersion of tracers over the inner-shelf and the underlying driving processes such as winds, waves, fronts, eddies, and Langmuir circulation.
