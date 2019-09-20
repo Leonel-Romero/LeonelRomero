@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Leonel Romero
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: University of California, Santa Barbara
+  url: "www.eri.ucsb.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include upper ocean processes, surface waves, air-sea interaction and coastal circulation.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Upper Ocean Processes
+- Surface Waves
+- Air-Sea Interaction
+- Coastal Circulation
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Oceanography
+    institution: Scripps Institution of Oceanography
     year: 2008
+  - course: BSc in Physics
+    institution: University of California, San Diego
+    year: 2002
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
