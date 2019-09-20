@@ -32,5 +32,22 @@ date_format = "Jan 2006"
   * Model Development
   * Data Analysis
   """
+  [[experience]]
+  title = "Project Scientist"
+  company = "Earth Research Institute, UCSB"
+  company_url = "eri.ucsb.edu"
+  location = "California"
+  date_start = "2011-06-01"
+  date_end = "2015-11-31"
+  description = """
+
+[[experience]]
+  title = "Postdoctoral Scholar"
+  company = "Scripps Institution of Oceanography, UCSD"
+  company_url = "eri.ucsb.edu"
+  location = "California"
+  date_start = "2008-06-01"
+  date_end = "2011-05-31"
+  description = """
   
 +++
