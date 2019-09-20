@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Leonel Romero completed a B.S. in Physics from the University of California, San Diego, in 2002 and a Ph.D. from Scripps Institution of Oceanography in 2008, where he continued as a postdoc for three years. In 2011, he joined the University of California, Santa Barbara, as Project Scientist. In 2015 he became Assistant Researcher.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+My research combines field observations and numerical modeling to study upper ocean processes, surface waves, coastal circulation, and air-sea interaction. Some of the objectives of my current and future work are to improve understanding of wave-current interactions and their impacts on wave breaking, air-sea fluxes, and remote sensing. I am also interested in the transport and dispersion of tracers over the inner-shelf and the underlying driving processes such as winds, waves, fronts, eddies, and Langmuir circulation.
