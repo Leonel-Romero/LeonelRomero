@@ -34,12 +34,12 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
+  title = "Project Scientist"
+  company = "Earth Research Institute, UCSB"
+  company_url = "eri.ucsb.edu"
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2011-06-01"
+  date_end = "2015-11-31"
+  description = """."""
 
 +++
