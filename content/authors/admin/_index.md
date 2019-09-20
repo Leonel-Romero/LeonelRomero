@@ -15,7 +15,7 @@ role: Research Scientist
 # Organizations/Affiliations
 organizations:
 - name: University of California, Santa Barbara
-  url: "https://www.eri.ucsb.edu"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include upper ocean processes, surface waves, air-sea interaction and coastal circulation.
