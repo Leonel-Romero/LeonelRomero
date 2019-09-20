@@ -19,10 +19,7 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics"
   
-
 [[feature]]
-icon = "fa-laptop"
 name = "Programing"
-icon_pack= "fas"
 description = "Fortran, Matlab, Shell"
 +++
