@@ -40,6 +40,6 @@ date_format = "Jan 2006"
   location = "California"
   date_start = "2011-06-01"
   date_end = "2015-11-31"
-  description = """
+  description = """Taught electronic engineering and researched semiconductor physics."""
 
 +++
