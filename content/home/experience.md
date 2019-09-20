@@ -32,6 +32,7 @@ date_format = "Jan 2006"
   * Model Development
   * Data Analysis
   """
+  
   [[experience]]
   title = "Project Scientist"
   company = "Earth Research Institute, UCSB"
