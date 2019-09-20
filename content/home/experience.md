@@ -36,7 +36,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Project Scientist"
   company = "Earth Research Institute, UCSB"
-  company_url = "eri.ucsb.edu"
+  company_url = ""
   location = "California"
   date_start = "2011-06-01"
   date_end = "2015-11-31"
