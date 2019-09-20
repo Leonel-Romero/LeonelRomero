@@ -22,5 +22,7 @@ subtitle = ""
 
 [[feature]]
 name = "Fortran"
+icon_pack="fas"
+icon = "fa-laptop"
 
 +++
