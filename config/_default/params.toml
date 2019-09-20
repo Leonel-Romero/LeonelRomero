@@ -10,7 +10,7 @@
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
 #theme = "minimal"
-theme = "Classic"
+theme = "classic"
 #theme = "Mr Robot"
 #theme = "Rose"
 
