@@ -1,7 +1,7 @@
 ---
 title: "Airborne observations and numerical modeling of fetch-limited waves in the Gulf of Tehuantepec"
 date: 2008-01-01
-publishDate: 2019-09-20T19:42:57.368347Z
+publishDate: 2019-09-21T17:14:38.592601Z
 authors: ["Leonel Romero"]
 publication_types: ["7"]
 abstract: ""
