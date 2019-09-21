@@ -1,7 +1,7 @@
 ---
 title: "Observations and Modeling of Linear and Nonlinear Spatio-Temporal Wave Statistics"
 date: 2010-01-01
-publishDate: 2019-09-21T17:14:38.595881Z
+publishDate: 2019-09-21T17:18:59.658832Z
 authors: ["Leonel Romero", "W Kendall Melville"]
 publication_types: ["1"]
 abstract: ""

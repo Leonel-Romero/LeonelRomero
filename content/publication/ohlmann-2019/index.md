@@ -1,7 +1,7 @@
 ---
 title: "Anisotropy in Coastal Ocean Relative Dispersion Observations"
 date: 2019-01-01
-publishDate: 2019-09-21T17:14:38.605830Z
+publishDate: 2019-09-21T17:18:59.665831Z
 authors: ["J. Carter Ohlmann", "Leonel Romero", "E. Pallàs-Sanz", "Paula Perez-Brunius"]
 publication_types: ["2"]
 abstract: ""

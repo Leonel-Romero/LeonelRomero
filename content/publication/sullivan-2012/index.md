@@ -1,7 +1,7 @@
 ---
 title: "Transient Evolution of Langmuir Turbulence in Ocean Boundary Layers Driven by Hurricane Winds and Waves"
 date: 2012-11-01
-publishDate: 2019-09-21T17:14:38.599291Z
+publishDate: 2019-09-21T17:18:59.661007Z
 authors: ["Peter P. Sullivan", "Leonel Romero", "James C. McWilliams", "W. Kendall Melville"]
 publication_types: ["2"]
 abstract: ""

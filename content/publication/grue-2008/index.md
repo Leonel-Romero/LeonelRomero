@@ -1,7 +1,7 @@
 ---
 title: "Orbital Velocity in Spatial Ocean Wave Elevation Measurement: Nonlinear Computation and Approximation"
 date: 2008-01-01
-publishDate: 2019-09-21T17:14:38.591501Z
+publishDate: 2019-09-21T17:18:59.655463Z
 authors: ["John Grue", "Leonel Romero", "Jessica Kleiss", "W. Kendall Melville"]
 publication_types: ["1"]
 abstract: ""

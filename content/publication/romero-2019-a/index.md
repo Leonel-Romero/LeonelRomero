@@ -1,7 +1,7 @@
 ---
 title: "Coincident Observations of Dye and Drifter Relative Dispersion over the Inner Shelf"
 date: 2019-09-01
-publishDate: 2019-09-21T17:14:38.608656Z
+publishDate: 2019-09-21T17:18:59.669000Z
 authors: ["Leonel Romero", "J. Carter Ohlmann", "Enric Pallàs-Sanz", "Nicholas M. Statom", "Paula Pérez-Brunius", "Stéphane Maritorena"]
 publication_types: ["2"]
 abstract: ""

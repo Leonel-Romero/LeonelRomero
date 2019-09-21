@@ -1,7 +1,7 @@
 ---
 title: "Spectral Energy Dissipation due to Surface Wave Breaking"
 date: 2012-09-01
-publishDate: 2019-09-21T17:14:38.600876Z
+publishDate: 2019-09-21T17:18:59.661832Z
 authors: ["Leonel Romero", "W. Kendall Melville", "Jessica M. Kleiss"]
 publication_types: ["2"]
 abstract: ""
