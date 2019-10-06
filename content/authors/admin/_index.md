@@ -65,6 +65,6 @@ user_groups:
 - Visitors
 ---
 
-Leonel Romero is currently an Assistant Researcher of Oceanography at the University of California, Santa Barbara. He received his Ph.D. in Oceanography from the Scripps Institution of Oceanography in 2008. 
+Leonel Romero is an Assistant Researcher of Oceanography at the University of California, Santa Barbara. He received his Ph.D. in Oceanography from the Scripps Institution of Oceanography in 2008. 
 
-His current research combines field observations and numerical modeling to study upper ocean processes, surface waves, coastal circulation, and air-sea interaction. His main objectives are to improve understanding of wave-current interactions and their impacts on wave breaking, air-sea fluxes, and remote sensing. Other current research interests include the transport and dispersion of tracers over the inner-shelf and the underlying driving processes such as winds, waves, fronts, eddies, and Langmuir circulation. 
+His research combines field observations and numerical modeling to study upper ocean processes, surface waves, coastal circulation, and air-sea interaction. His main objectives are to improve understanding of wave-current interactions and their impacts on wave breaking, air-sea fluxes, and remote sensing. Other research interests include the transport and dispersion of tracers over the inner-shelf and the underlying driving processes such as winds, waves, fronts, eddies, and Langmuir circulation. 
