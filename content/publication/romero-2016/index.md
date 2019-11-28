@@ -8,7 +8,7 @@ abstract: ""
 featured: false
 publication: "*Journal of Geophysical Research: Oceans*"
 tags: ["coastal circulation", "dispersion", "freshwater fronts", "freshwater plumes"]
-url_pdf: "https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2015JC011323 http://doi.wiley.com/10.1002/2015JC011323"
+url_pdf: "http://doi.wiley.com/10.1002/2015JC011323"
 doi: "10.1002/2015JC011323"
 ---
 
