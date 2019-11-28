@@ -8,7 +8,7 @@ abstract: ""
 featured: false
 publication: "*Journal of Physical Oceanography*"
 tags: ["coastal circulation", "diffusivity", "relative dispersion", "transport"]
-url_pdf: "https://journals.ametsoc.org/doi/abs/10.1175/JPO-D-13-011.1 http://journals.ametsoc.org/doi/abs/10.1175/JPO-D-13-011.1"
+url_pdf: "http://journals.ametsoc.org/doi/abs/10.1175/JPO-D-13-011.1"
 doi: "10.1175/JPO-D-13-011.1"
 ---
 
