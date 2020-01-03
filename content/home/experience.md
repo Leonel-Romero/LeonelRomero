@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * Field Experinents
+  * Field Experiments
   * Modeling
   * Model Development
   * Data Analysis
