@@ -10,5 +10,6 @@ publication: "*Geophysical Research Letters*"
 tags: ["air-sea fluxes", "air-sea interaction", "wave breaking", "wave-current interaction"]
 url_pdf: "https://onlinelibrary.wiley.com/doi/abs/10.1029/2019GL083408"
 doi: "10.1029/2019GL083408"
+image: "mori_breaking_waves.jpg"
 ---
 
