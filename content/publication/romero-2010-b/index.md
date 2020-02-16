@@ -10,5 +10,6 @@ publication: "*Journal of Physical Oceanography*"
 tags: ["fetch-limited", "surface waves", "wind-waves"]
 url_pdf: "http://journals.ametsoc.org/doi/abs/10.1175/2009JPO4128.1"
 doi: "10.1175/2009JPO4128.1"
+image: "mori_breaking_waves.jpg"
 ---
 
