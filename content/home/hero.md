@@ -10,6 +10,7 @@ title = ""
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
 #hero_media = "hero-academic.png"
 hero_media = "mori_breaking_waves.jpg"
+
 [design.background]
   # Apply a background color, gradient, or image.
   #   Uncomment (by removing `#`) an option to apply it.
