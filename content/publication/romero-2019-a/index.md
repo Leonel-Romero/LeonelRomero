@@ -10,5 +10,15 @@ publication: "*Journal of Physical Oceanography*"
 tags: ["Langmuir circulation", "coastal circulation", "dispersion", "submesoscale fronts", "transport"]
 url_pdf: "http://journals.ametsoc.org/doi/10.1175/JPO-D-19-0056.1"
 doi: "10.1175/JPO-D-19-0056.1"
+
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+ # caption: 'Image credit: [**Unsplash**]( JPO )'
+  caption: 'Dye and drifter releases'
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point: "Right"
+  preview_only: false
 ---
 

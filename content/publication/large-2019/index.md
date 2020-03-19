@@ -10,5 +10,14 @@ publication: "*Journal of Physical Oceanography*"
 tags: ["Langmuir circulation"]
 url_pdf: "http://journals.ametsoc.org/doi/10.1175/JPO-D-18-0066.1"
 doi: "10.1175/JPO-D-18-0066.1"
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+ # caption: 'Image credit: [**Unsplash**]( GRL )'
+  caption: 'Wave spectra and Stokes drift profiles'
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point: "Center"
+  preview_only: false
 ---
 
