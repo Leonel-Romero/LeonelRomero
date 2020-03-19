@@ -54,7 +54,7 @@ hero_media = "mori_breaking_waves.jpg"
 #  label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-**It's important that you work on things that you care about...**
+**It's important that you work on things that you care about. ...**
 
 **Don't be afraid to get involved.**
 
