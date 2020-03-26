@@ -78,4 +78,4 @@ subtitle = ""
 
 + **Wave-current interactions in the presence of submesocale ocean features**
 
-+ **Modulation of bubble mediated gast transfer due to wave-current interactions**
++ **Modulation of bubble mediated gas transfer due to wave-current interactions**
