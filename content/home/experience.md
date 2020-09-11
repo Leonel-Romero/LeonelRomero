@@ -61,7 +61,7 @@ date_format = "Jan 2006"
   company_url = "https://eri.ucsb.edu"
   location = "California"
   date_start = "2011-06-01"
-  date_end = "2015-11-30"
+  date_end = "2015-10-01"
   description = """."""
 
 
