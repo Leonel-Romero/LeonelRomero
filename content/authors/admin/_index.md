@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Scientist
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of California, Santa Barbara
-  url: "https://www.eri.ucsb.edu"
+- name: University of Connecticut, Department of Marine Sciences
+  url: "https:///marinesciences.uconn.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include upper ocean processes, surface waves, air-sea interaction and coastal circulation.
@@ -42,8 +42,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
- # link: '#contact'  # For a direct email link, use "mailto:leromero@eri.ucsb.edu".
-  link: mailto:leromero@eri.ucsb.edu
+ # link: '#contact'  # For a direct email link, use "mailto:leonel.romero@uconn.edu".
+  link: mailto:leonel.romero@uconn.edu
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=NZtZHmEgTw4C&hl=en
@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Leonel Romero is an Assistant Researcher of Oceanography at the University of California, Santa Barbara. He received his Ph.D. in Oceanography from the Scripps Institution of Oceanography in 2008. 
+Leonel Romero is an Assistant Professor of Marine Sciences at the University of Connecticut, Avery Point. He received his Ph.D. in Oceanography from the Scripps Institution of Oceanography in 2008. 
 
 His research combines field observations and numerical modeling to study upper-ocean processes, surface waves, coastal circulation, and air-sea interaction. His main objectives are to improve understanding of wave-current interactions and their impacts on wave breaking, air-sea fluxes, and remote sensing. Other research interests include the transport and dispersion of tracers over the inner-shelf and the underlying driving processes such as winds, waves, fronts, eddies, and Langmuir circulation. 

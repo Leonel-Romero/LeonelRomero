@@ -85,23 +85,24 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "leromero@eri.ucsb.edu"
-phone = ""
+email = "leonel.romero@uconn.edu"
+#phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "6803 Ellison Hall", city = "Santa Barbara", region = "CA", postcode = "93106-3060", country = "United States", country_code = "US"}
+#address = {street = "6803 Ellison Hall", city = "Santa Barbara", region = "CA", postcode = "93106-3060", country = "United States", country_code = "US"}
+address = {street = "1080 Shennecossett Road", city = "Groton", region = "CT", postcode = "06340", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "34.4153", longitude = "-119.845417"}
+coordinates = {latitude = "41.3163", longitude = "-72.06269444444445"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building Ellison Hall and take the stairs to Office 6803 on Floor 6"
+#directions = "Enter Building Ellison Hall and take the stairs to Office 6803 on Floor 6"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Monday-Friday 8:00 to 5:00"]
+#office_hours = ["Monday-Friday 8:00 to 5:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
