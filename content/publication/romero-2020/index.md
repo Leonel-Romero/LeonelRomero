@@ -8,7 +8,7 @@ abstract: ""
 featured: true 
 publication: "*Ocean Modelling*"
 tags: ["air-sea interaction", "submesoscale fronts", "wave  breaking", "wave-current interaction"]
-url_pdf: "https://authors.elsevier.com/a/1bSD65Cmkuk69D"
+url_pdf: "https://leonelromero.com/publication/romero-2020/Romero_et_al.om.2020.pdf"
 doi: "10.1016/j.ocemod.2020.101662"
 
 # Featured image
