@@ -15,7 +15,7 @@ doi: "10.1016/j.ocemod.2020.101662"
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
  # caption: 'Image credit: [**Unsplash**]( GRL )'
-  caption: 'Wave breaking modulation across submesocale front/upwelling jet'
+  caption: 'Wave modulation due to submesoscale current variability'
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Center"
   preview_only: false
