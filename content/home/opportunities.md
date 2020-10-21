@@ -69,11 +69,11 @@ subtitle = ""
 
 Prof. Romero is looking for Masters and Doctoral students to join his lab.  Interested students should:
 
-1) Contact Prof. Romero via email (leonel.romero@uconn.edu) to express interest and introduce yourself
+1) Contact Prof. Romero via [email](mailto:leonel.romero@uconn.edu) to express interest and introduce yourself
 
 2) Plan a visit to the campus or a Zoom/Webex call if you are too far (in some cases modest travel awards are available for students to visit)
 
 3) Review the [Departmental Website](https://marinesciences.uconn.edu) for detailed instructions
 
 ### Postdoctoral Scholar 
-Postdoc position to work on an NSF funded project investigating the effect of wave-current interactions on gas exchange. Contact Prof. Romero via email (leonel.romero@uconn.edu) to express interest and introduce yourself. 
+Postdoc position to work on an NSF funded project investigating the effect of wave-current interactions on gas exchange. Contact Prof. Romero via [email](mailto:leonel.romero@uconn.edu) to express interest and introduce yourself. 
